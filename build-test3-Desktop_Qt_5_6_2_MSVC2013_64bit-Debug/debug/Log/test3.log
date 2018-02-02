@@ -1,0 +1,70 @@
+[Info] [2017-12-25 17:52:01]  [..\mainwindow.cpp: Line: 421]  [Function: void __cdecl MainWindow::readSetting(void)] 
+Message: "fileDialogPath is C:/Users/yuechip/Desktop/asf." 
+[Info] [2017-12-25 17:52:06]  [..\mainwindow.cpp: Line: 174]  [Function: bool __cdecl MainWindow::openSourceFileSlot(void)] 
+Message: "Open file's name is C:/Users/yuechip/Desktop/asf/a.asf" 
+[Info] [2017-12-25 17:52:07]  [..\mainwindow.cpp: Line: 271]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: Function beginBuggonClickSlot() begin 
+[Info] [2017-12-25 17:52:07]  [..\mainwindow.cpp: Line: 319]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: "tempJpgFileName is C:/Users/yuechip/Desktop/asf/temp/a.jpg." 
+[Critical] [2017-12-25 17:52:07]  [..\transactionthread.cpp: Line: 17]  [Function: void __cdecl LocationTvTransaction::apply(void)] 
+Message: choose_mat failed! 
+[Info] [2017-12-25 17:52:07]  [..\mainwindow.cpp: Line: 329]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: addTransaction to subThread! 
+[Info] [2017-12-25 17:52:07]  [..\mainwindow.cpp: Line: 330]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: Function beginBuggonClickSlot() end 
+[Warning] [2017-12-25 17:52:33]  [..\mainwindow.cpp: Line: 386]  [Function: void __cdecl MainWindow::updatePixmap(void)] 
+Message: "readFrame failed, frameNum is 18113, frameIndex is 244." 
+[Info] [2017-12-25 17:52:33]  [..\mainwindow.cpp: Line: 339]  [Function: void __cdecl MainWindow::endButtonClickSlot(void)] 
+Message:  
+[Info] [2018-01-04 14:57:07]  [..\mainwindow.cpp: Line: 421]  [Function: void __cdecl MainWindow::readSetting(void)] 
+Message: "fileDialogPath is C:/Users/yuechip/Desktop/asf." 
+[Info] [2018-01-04 14:57:18]  [..\mainwindow.cpp: Line: 174]  [Function: bool __cdecl MainWindow::openSourceFileSlot(void)] 
+Message: "Open file's name is C:/Users/yuechip/Desktop/asf/a.asf" 
+[Info] [2018-01-04 14:57:20]  [..\mainwindow.cpp: Line: 271]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: Function beginBuggonClickSlot() begin 
+[Info] [2018-01-04 14:57:21]  [..\mainwindow.cpp: Line: 319]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: "tempJpgFileName is C:/Users/yuechip/Desktop/asf/temp/a.jpg." 
+[Critical] [2018-01-04 14:57:21]  [..\transactionthread.cpp: Line: 17]  [Function: void __cdecl LocationTvTransaction::apply(void)] 
+Message: choose_mat failed! 
+[Info] [2018-01-04 14:57:21]  [..\mainwindow.cpp: Line: 329]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: addTransaction to subThread! 
+[Info] [2018-01-04 14:57:21]  [..\mainwindow.cpp: Line: 330]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: Function beginBuggonClickSlot() end 
+[Warning] [2018-01-04 14:58:52]  [..\mainwindow.cpp: Line: 386]  [Function: void __cdecl MainWindow::updatePixmap(void)] 
+Message: "readFrame failed, frameNum is 18113, frameIndex is 244." 
+[Info] [2018-01-04 14:58:52]  [..\mainwindow.cpp: Line: 339]  [Function: void __cdecl MainWindow::endButtonClickSlot(void)] 
+Message:  
+[Info] [2018-01-23 17:31:18]  [..\mainwindow.cpp: Line: 421]  [Function: void __cdecl MainWindow::readSetting(void)] 
+Message: "fileDialogPath is C:/Users/yuechip/Desktop/asf." 
+[Info] [2018-01-23 17:31:26]  [..\mainwindow.cpp: Line: 174]  [Function: bool __cdecl MainWindow::openSourceFileSlot(void)] 
+Message: "Open file's name is C:/Users/yuechip/Desktop/asf/a.asf" 
+[Info] [2018-01-23 17:31:28]  [..\mainwindow.cpp: Line: 271]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: Function beginBuggonClickSlot() begin 
+[Info] [2018-01-23 17:31:28]  [..\mainwindow.cpp: Line: 319]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: "tempJpgFileName is C:/Users/yuechip/Desktop/asf/temp/a.jpg." 
+[Critical] [2018-01-23 17:31:28]  [..\transactionthread.cpp: Line: 17]  [Function: void __cdecl LocationTvTransaction::apply(void)] 
+Message: choose_mat failed! 
+[Info] [2018-01-23 17:31:28]  [..\mainwindow.cpp: Line: 329]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: addTransaction to subThread! 
+[Info] [2018-01-23 17:31:28]  [..\mainwindow.cpp: Line: 330]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: Function beginBuggonClickSlot() end 
+[Info] [2018-01-23 17:31:38]  [..\mainwindow.cpp: Line: 345]  [Function: void __cdecl MainWindow::pauseButtonClickSlot(void)] 
+Message:  
+[Info] [2018-01-23 17:31:39]  [..\mainwindow.cpp: Line: 271]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: Function beginBuggonClickSlot() begin 
+[Info] [2018-01-23 17:31:39]  [..\mainwindow.cpp: Line: 289]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: continue to display! 
+[Info] [2018-01-23 17:31:39]  [..\mainwindow.cpp: Line: 290]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: Function beginBuggonClickSlot() end 
+[Info] [2018-01-23 17:31:40]  [..\mainwindow.cpp: Line: 345]  [Function: void __cdecl MainWindow::pauseButtonClickSlot(void)] 
+Message:  
+[Info] [2018-01-23 17:31:41]  [..\mainwindow.cpp: Line: 271]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: Function beginBuggonClickSlot() begin 
+[Info] [2018-01-23 17:31:41]  [..\mainwindow.cpp: Line: 289]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: continue to display! 
+[Info] [2018-01-23 17:31:41]  [..\mainwindow.cpp: Line: 290]  [Function: void __cdecl MainWindow::beginButtonClickSlot(void)] 
+Message: Function beginBuggonClickSlot() end 
+[Warning] [2018-01-23 17:31:44]  [..\mainwindow.cpp: Line: 386]  [Function: void __cdecl MainWindow::updatePixmap(void)] 
+Message: "readFrame failed, frameNum is 18113, frameIndex is 244." 
+[Info] [2018-01-23 17:31:44]  [..\mainwindow.cpp: Line: 339]  [Function: void __cdecl MainWindow::endButtonClickSlot(void)] 
+Message:  
